@@ -1,0 +1,57 @@
+TensorFlow 2.0 Upgrade Script
+-----------------------------
+Converted 1 files
+Detected 6 issues that require attention
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+File: Chapter3.ipynb
+--------------------------------------------------------------------------------
+Chapter3.ipynb:8:11: WARNING: Changing dataset.make_one_shot_iterator() to tf.compat.v1.data.make_one_shot_iterator(dataset). Please check this transformation.
+
+Chapter3.ipynb:17:11: WARNING: Changing dataset.make_one_shot_iterator() to tf.compat.v1.data.make_one_shot_iterator(dataset). Please check this transformation.
+
+Chapter3.ipynb:31:11: WARNING: Changing dataset.make_one_shot_iterator() to tf.compat.v1.data.make_one_shot_iterator(dataset). Please check this transformation.
+
+Chapter3.ipynb:40:11: WARNING: Changing dataset.make_one_shot_iterator() to tf.compat.v1.data.make_one_shot_iterator(dataset). Please check this transformation.
+
+Chapter3.ipynb:95:11: WARNING: Changing dataset.make_one_shot_iterator() to tf.compat.v1.data.make_one_shot_iterator(dataset). Please check this transformation.
+
+Chapter3.ipynb:131:11: WARNING: Changing dataset.make_one_shot_iterator() to tf.compat.v1.data.make_one_shot_iterator(dataset). Please check this transformation.
+
+================================================================================
+Detailed log follows:
+
+================================================================================
+--------------------------------------------------------------------------------
+Processing file 'Chapter3.ipynb'
+ outputting to 'Chapter3_ANNTech_TF2_alpha_VERSION2.ipynb'
+--------------------------------------------------------------------------------
+
+8:11: WARNING: Changing dataset.make_one_shot_iterator() to tf.compat.v1.data.make_one_shot_iterator(dataset). Please check this transformation.
+
+17:11: WARNING: Changing dataset.make_one_shot_iterator() to tf.compat.v1.data.make_one_shot_iterator(dataset). Please check this transformation.
+
+31:11: WARNING: Changing dataset.make_one_shot_iterator() to tf.compat.v1.data.make_one_shot_iterator(dataset). Please check this transformation.
+
+40:11: WARNING: Changing dataset.make_one_shot_iterator() to tf.compat.v1.data.make_one_shot_iterator(dataset). Please check this transformation.
+
+55:10: INFO: Renamed 'tf.contrib.data.CsvDataset' to 'tf.data.experimental.CsvDataset'
+61:10: INFO: Renamed 'tf.contrib.data.CsvDataset' to 'tf.data.experimental.CsvDataset'
+67:10: INFO: Renamed 'tf.contrib.data.CsvDataset' to 'tf.data.experimental.CsvDataset'
+73:0: INFO: Renamed 'tf.enable_eager_execution' to 'tf.compat.v1.enable_eager_execution'
+78:13: INFO: Renamed 'tf.python_io.TFRecordWriter' to 'tf.io.TFRecordWriter'
+90:31: INFO: Renamed 'tf.FixedLenSequenceFeature' to 'tf.io.FixedLenSequenceFeature'
+91:22: INFO: Added keywords to args of function 'tf.parse_single_example'
+91:22: INFO: Renamed 'tf.parse_single_example' to 'tf.io.parse_single_example'
+95:11: WARNING: Changing dataset.make_one_shot_iterator() to tf.compat.v1.data.make_one_shot_iterator(dataset). Please check this transformation.
+
+116:9: INFO: Renamed 'tf.python_io.TFRecordWriter' to 'tf.io.TFRecordWriter'
+123:29: INFO: Renamed 'tf.FixedLenFeature' to 'tf.io.FixedLenFeature'
+124:30: INFO: Renamed 'tf.VarLenFeature' to 'tf.io.VarLenFeature'
+125:33: INFO: Renamed 'tf.VarLenFeature' to 'tf.io.VarLenFeature'
+127:22: INFO: Added keywords to args of function 'tf.parse_single_example'
+127:22: INFO: Renamed 'tf.parse_single_example' to 'tf.io.parse_single_example'
+131:11: WARNING: Changing dataset.make_one_shot_iterator() to tf.compat.v1.data.make_one_shot_iterator(dataset). Please check this transformation.
+
+--------------------------------------------------------------------------------
+
