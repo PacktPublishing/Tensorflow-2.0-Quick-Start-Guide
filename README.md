@@ -7,7 +7,7 @@ This is the code repository for [TensorFlow 2.0 Quick Start Guide](https://prod.
 **Get up to speed with the newly introduced features of TensorFlow 2.0**
 
 ## What is this book about?
-First Paragraph from the Long DescriptionTensorFlow is one of the most popular machine learning frameworks in Python. With this book, you will improve your knowledge of some of the latest TensorFlow features and will be able to perform supervised and unsupervised machine learning and also train neural networks.
+TensorFlow is one of the most popular machine learning frameworks in Python. With this book, you will improve your knowledge of some of the latest TensorFlow features and will be able to perform supervised and unsupervised machine learning and also train neural networks.
 
 This book covers the following exciting features: <First 5 What you'll learn points>
 * Use tf.Keras for fast prototyping, building, and training deep learning neural network models
