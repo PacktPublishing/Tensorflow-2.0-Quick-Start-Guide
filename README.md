@@ -45,11 +45,11 @@ With the following software and hardware list you can run all code files present
 
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/9781789530759_ColorImages. pdf).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/9781789530759_ColorImages.pdf).
 
 
 
-### Related products <Other books you may enjoy>
+### Related products
 * Deep Learning with TensorFlow - Second Edition [[Packt]](https://prod.packtpub.com/in/big-data-and-business-intelligence/deep-learning-tensorflow-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788831109) [[Amazon]](https://www.amazon.com/dp/1788831101)
 
 * Intelligent Mobile Projects with TensorFlow [[Packt]](https://prod.packtpub.com/in/application-development/intelligent-mobile-projects-tensorflow?utm_source=github&utm_medium=repository&utm_campaign=9781788834544) [[Amazon]](https://www.amazon.com/dp/1788834542)
