@@ -2,7 +2,7 @@
 
 <a href="https://prod.packtpub.com/in/big-data-and-business-intelligence/tensorflow-20-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789530759"><img src="https://prod.packtpub.com/media/catalog/product/cache/a22c7d190d97ca25f5f1089471ab8502/5/3/530759_cover.png" alt="TensorFlow 2.0 Quick Start Guide" height="256px" align="right"></a>
 
-This is the code repository for [Book Name](https://prod.packtpub.com/in/big-data-and-business-intelligence/tensorflow-20-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789530759), published by Packt.
+This is the code repository for [TensorFlow 2.0 Quick Start Guide](https://prod.packtpub.com/in/big-data-and-business-intelligence/tensorflow-20-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789530759), published by Packt.
 
 **Get up to speed with the newly introduced features of TensorFlow 2.0**
 
